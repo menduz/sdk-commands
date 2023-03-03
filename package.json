@@ -1,0 +1,16 @@
+{
+  "name": "sdk-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "postinstall": "WARNING!!!!!!! you are using sdk-commands instead of @dcl/sdk-commands"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@dck/sdk-commands": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
